@@ -15,4 +15,4 @@ I'm Kumar Satyam, I code to make things happen 😊
 
 ## Contact
 - [@KumarSatyam](https://www.linkedin.com/in/satyam432/) on Linkedin
-- [@Mail](432satyam432@gmail.com) on Instagram
+- [@Mail](432satyam432@gmail.com) 📧
