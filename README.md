@@ -6,12 +6,13 @@ I'm Kumar Satyam, I code to make things happen 😊
 
 - 👥 Frontend Developer at Homingos
 
-- 💰 Made python trading BOT
+
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Golang, C++
 - ⚙️ React, Vue
 - 💽 Postgres, SQL, Mongo
+- 💰 Made python trading BOT
 
 ## Contact
 - [@KumarSatyam](https://www.linkedin.com/in/satyam432/) on Linkedin
