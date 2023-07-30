@@ -2,6 +2,8 @@
 I'm Kumar Satyam, I code to make things happen 😊
 
 ## Experience
+-   Full Stack Developer at Arre
+
 - 🧭 Backend Developer at Drife
 
 - 👥 Frontend Developer at Homingos
